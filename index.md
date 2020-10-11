@@ -4,10 +4,9 @@
 
 I was born and raised in Greentown, Pennsylvania. I attended Wallenpaupack High School in Northeastern PA. I enjoy hiking and golfing. I have two younger siblings.
 
-# Header 1
-## Header 2
-### Header 3
-
+### Favorite Food
+My favorite food is the stroopwafel, a dutch snack.
+![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FStroopwafel&psig=AOvVaw0JRRI8JRhqLdm4wxQURUDd&ust=1602535498700000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJj5h4u0rewCFQAAAAAdAAAAABAG)
 - Bulleted
 - List
 
@@ -16,7 +15,7 @@ I was born and raised in Greentown, Pennsylvania. I attended Wallenpaupack High 
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
