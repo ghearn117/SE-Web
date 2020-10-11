@@ -6,7 +6,7 @@ I was born and raised in Greentown, Pennsylvania. I attended Wallenpaupack High 
 
 ### Favorite Food
 My favorite food is the stroopwafel, a dutch snack.
-<img src="stroopwafels_01.jpg">
+<img src="Stroopwafels_01.jpg">
 - Bulleted
 - List
 
