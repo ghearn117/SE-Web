@@ -6,24 +6,12 @@ I was born and raised in Greentown, Pennsylvania. I attended Wallenpaupack High 
 
 ### Favorite Food
 My favorite food is the stroopwafel, a dutch snack.
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FStroopwafel&psig=AOvVaw2SfCA4Wbv0xctO9hKsETRE&ust=1602535947588000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODIqOG1rewCFQAAAAAdAAAAABAD">
+<img src="\download\stroopwafels_01.jpg">
 - Bulleted
 - List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and 
-```
+[Link](http://www.se.rit.edu/~swen-101/00/index.html) 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/llh5783/SE-Web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
