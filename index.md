@@ -5,10 +5,15 @@
 I was born and raised in Greentown, Pennsylvania. I attended Wallenpaupack High School in Northeastern PA. I enjoy hiking and golfing. I have two younger siblings.
 
 ### Favorite Food
-My favorite food is the stroopwafel, a dutch snack.
 <img src="Stroopwafels_01.jpg">
-- Bulleted
-- List
+
+My favorite food is the stroopwafel, a dutch snack.
+
+### What I Hope To Learn
+
+- How to succeed in Software Engineering
+- How to communicate with industry professionals
+- How to work with others
 
 
 
