@@ -1,15 +1,8 @@
 ## Welcome to Gavin Hearn's Page
 
-You can use the [editor on GitHub](https://github.com/llh5783/SE-Web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+I was born and raised in Greentown, Pennsylvania. I attended Wallenpaupack High School in Northeastern PA. I enjoy hiking and golfing. I have two younger siblings.
 
 # Header 1
 ## Header 2
